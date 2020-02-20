@@ -1,5 +1,5 @@
-import React from "react";
-import "./nav.css";
+import React from 'react';
+import "./Nav.css";
 
 const Dashboard = () => {
   return (

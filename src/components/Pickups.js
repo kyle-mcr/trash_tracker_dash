@@ -1,4 +1,4 @@
-import React from "react";
+import React from 'react';
 import './accounts.css';
 import stock from '../stocklogo.png'
 import {
